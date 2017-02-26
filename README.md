@@ -51,8 +51,8 @@ A package template implements a project template README with CI badge.
 | **linux**            | [![travis-ci.org][travis-badge]][travis-ci]     |
 | **darwin**           | [![circleci.com][circleci-badge]][circleci]     |
 | **windows**          | [![appveyor-badge][appveyor-badge]][appveyor]   |
-| **godoc**            | [![godoc.org][godoc-badge]][godoc]              |
 | **codecov.io**       | [![codecov.io][codecov-badge]][codecov]         |
+| **godoc**            | [![godoc.org][godoc-badge]][godoc]              |
 
 
 ---
