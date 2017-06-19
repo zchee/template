@@ -61,7 +61,7 @@ A package template implements a project template README with CI badge.
 [travis-ci]: https://travis-ci.org/zchee/go-template
 [circleci]: https://circleci.com/gh/zchee/go-template
 [appveyor]: https://ci.appveyor.com/project/zchee/go-template
-[godoc]: https://godoc.org/-/go
+[godoc]: https://godoc.org/github.com/golang/dep
 [codecov]: https://codecov.io/gh/zchee/go-template
 [ga]: https://github.com/zchee
 
